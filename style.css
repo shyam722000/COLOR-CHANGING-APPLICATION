@@ -1,0 +1,38 @@
+#bg{
+    color:rgb(99, 178, 196);
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:larger;
+    font-weight: 400;
+    width: 500px;
+    height: 500px;
+    margin-left: 300px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 15px 15px 10px rgb(139, 194, 212);
+
+
+
+}
+#button{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    margin: 50px 50px;
+    color: rgb(45, 116, 154);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: black;
+    border-radius: 5px;
+    font-size: larger;
+  
+    margin-left: 450px;
+} 
+/* #button:hover{
+    background-color: bisque;
+    transform: translateY(4px);
+    transition: 1s;
+} */
+
+
